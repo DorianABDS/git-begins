@@ -5,5 +5,5 @@ git commit -m 'init'
 git remote add origin
 git push -u origin master
 git pull
-git branch -c command
+git branch -c command (create new branch)
 git checkout (branch name)
