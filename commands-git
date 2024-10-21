@@ -1,5 +1,5 @@
 git init
-git add index.html
+git add . (tout enregister) ou git add (nom du fichier)
 git config --global user.email "dorian.abbadessa@laplateforme.io"
 git commit -m 'init'
 git remote add origin
