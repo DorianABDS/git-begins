@@ -5,3 +5,5 @@ git commit -m 'init'
 git remote add origin
 git push -u origin master
 git pull
+git branch -c command
+git checkout (branch name)
